@@ -45,7 +45,7 @@ cd BIND
 
 | Home Screen | Calendar | Insights |
 |------------|-------------|----------|
-| ![Home](screenshots/home_screen.png) | ![Calendar](screenshots/calendar_screen.png) | ![Insights](screenshots/insight_screen.png) |
+| ![Home](screenshots/home_screen.png) | ![Calendar](screenshots/calendar_screen.png) | ![Insights](screenshots/insights_screen.png) |
 
 | Settings | Login | Welcome |
 |--------------|------------------|----------|
