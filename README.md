@@ -2,7 +2,7 @@
 
 🚀 **Journaling meets  voice-typed, and secure way to capture your thoughts!**
 
-![BIND App Banner](your_screenshot_url_here)
+![BIND App Banner](screenshots/logo.png)
 
 ## 🌟 **Overview**
 BIND is an innovative, A personal diary app designed for those who value privacy, accessibility, and ease of use. It blends the timeless art of journaling with modern speech-to-text technology, allowing users to record their thoughts effortlessly. With a minimalist design, powerful insights, and a secure PHP backend, BIND transforms the way you reflect and store your memories.
