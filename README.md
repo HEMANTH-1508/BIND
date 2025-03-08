@@ -43,17 +43,17 @@ cd BIND
 
 ## 📸 **Screenshots**
 
-| Home Screen | Voice Typing | Insights |
+| Home Screen | Calendar | Insights |
 |------------|-------------|----------|
-| ![Home](your_home_screenshot_url) | ![Voice](your_voice_typing_screenshot_url) | ![Insights](your_insights_screenshot_url) |
+| ![Home](screenshots/home_screen.png) | ![Calendar](screenshots/calendar_screen.png) | ![Insights](screenshots/insight_screen.png) |
 
-| Calendar View | Profile Selection | Settings |
+| Settings | Login | Welcome |
 |--------------|------------------|----------|
-| ![Calendar](your_calendar_screenshot_url) | ![Profiles](your_profile_screenshot_url) | ![Settings](your_settings_screenshot_url) |
+| ![Calendar](screenshots/settings_screen.png) | ![Profiles](screenshots/login.png) | ![Settings](screenshots/welcome.png) |
 
-| Secure Login | Dark Mode | Writing Journal |
+| Signup | Emoji Selector | Event |
 |------------|-------------|----------|
-| ![Login](your_login_screenshot_url) | ![Dark Mode](your_dark_mode_screenshot_url) | ![Writing](your_writing_screenshot_url) |
+| ![Login](screenshots/signup.png) | ![Dark Mode](screenshots/emoji_selector.png) | ![Writing](screenshots/create_event.png) |
 
 ## 💡 **Challenges & Learnings**
 Developing BIND came with key challenges, including:
