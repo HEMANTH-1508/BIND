@@ -50,7 +50,7 @@ cd BIND
 - Ensure dependencies are installed.
 - Build & run the app on a simulator or physical device.
 
-## 📸 **Screenshots**
+## 📸 **FIGMA SAMPLE Screenshots**
 
 | Home Screen | Calendar | Insights |
 |------------|-------------|----------|
