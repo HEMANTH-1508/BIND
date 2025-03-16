@@ -84,7 +84,23 @@ We welcome contributions! Fork this repo, create a feature branch, and submit a 
 ## 📜 **License**
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hemanth-k-835b47266" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hemanth-k-835b47266?trk=profile-badge">HEMANTH K</a></div>
-
 💬 **Have questions or feedback?** Open an issue or reach out! Happy journaling! 😊🎙️✍️
+
+<div align="center">
+  <a href="https://mail.google.com/mail/?view=cm&to=hemanthkonathala2004@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="61" alt="gmail logo"  />
+  </a>
+  <a href="gaming_with_hemanth" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="85" height="61" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hemanth-k-835b47266" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="61" alt="linkedin logo"  />
+  </a>
+  <a href="https://telegram.org/dl" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="85" height="61" alt="telegram logo"  />
+  </a>
+</div>
+
+
+
 
