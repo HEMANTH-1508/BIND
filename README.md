@@ -1,9 +1,17 @@
-# 📝 **BIND: Personal Diary**
+# <img src="screenshots/logo.png" width="100" height="100"> **BIND: Personal Diary**
 
 🚀 **Journaling meets  voice-typed, and secure way to capture your thoughts!**
 
 
-<img src="screenshots/logo.png" width="300" height="250">
+
+
+## 📲 **Download on the App Store**  
+
+<a href="https://apps.apple.com/in/app/bind-personal-space/id6742995499">
+    <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="200">
+</a>
+
+
 
 ## 🌟 **Overview**
 BIND is an innovative, A personal diary app designed for those who value privacy, accessibility, and ease of use. It blends the timeless art of journaling with modern speech-to-text technology, allowing users to record their thoughts effortlessly. With a minimalist design, powerful insights, and a secure PHP backend, BIND transforms the way you reflect and store your memories.
