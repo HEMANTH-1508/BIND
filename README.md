@@ -1,8 +1,8 @@
-# <img src="screenshots/logo.png" width="100" height="100"> **BIND: Personal Diary**
+# <img src="screenshots/logo.png" width="100" height="100"> **BIND: Personal Diary **
 
 🚀 **Journaling meets  voice-typed, and secure way to capture your thoughts!**
 
-
+              
 
 
 ## 📲 **Download on the App Store**  
@@ -84,7 +84,7 @@ We welcome contributions! Fork this repo, create a feature branch, and submit a 
 ## 📜 **License**
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hemanth-k-835b47266" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hemanth-k-835b47266?trk=profile-badge">HEMANTH K</a></div>
 
 💬 **Have questions or feedback?** Open an issue or reach out! Happy journaling! 😊🎙️✍️
 
