@@ -1,4 +1,4 @@
-# <img src="screenshots/logo.png" width="100" height="100"> **BIND: Personal Diary **
+# <img src="screenshots/logo.png" width="100" height="100"> BIND: Personal Diary
 
 🚀 **Journaling meets  voice-typed, and secure way to capture your thoughts!**
 
