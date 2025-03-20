@@ -79,11 +79,6 @@ Through continuous testing and iteration, we successfully created a fluid, relia
 - 🔒 **Biometric Authentication** – Secure login with Face ID/Touch ID.
 - 🌎 **Multilingual Support** – Expand accessibility for global users.
 
-## 🤝 **Contributing**
-We welcome contributions! Fork this repo, create a feature branch, and submit a PR. Let’s make journaling smarter together!
-
-## 📜 **License**
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 💬 **Have questions or feedback?** Open an issue or reach out! Happy journaling! 😊🎙️✍️
 
