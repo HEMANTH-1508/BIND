@@ -4,13 +4,11 @@
 
               
 
-<!--
 ## 📲 **Download on the App Store**  
 
  <a href="https://apps.apple.com/in/app/bind-personal-space/id6742995499">
     <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="200">
 </a> 
--->
 
 
 
